@@ -1,5 +1,5 @@
 # Web Scrapper using Python Flask Framework
-A simple Web Scraping website. Using a URL from Online Retailer site: https://www.target.com/ products and an HTML tag provided by a user scraps the page and returns the total number of elements fetched and then display the results from the scrap.
+A simple Web Scraping website. Using a URL from Online Retailer site: https://www.target.com/ products and an HTML tag provided by a user scraps the page and returns the total number of elements fetched and then display the results from the scrap. The working code can be seen in the this website that has been published: http://kobewarehouse.pythonanywhere.com/
 
 ## Requirements ,Packages used and Installation
 Download and install Python. Make sure you install Python v3.6.+
