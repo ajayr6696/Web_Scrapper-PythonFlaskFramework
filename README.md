@@ -51,3 +51,5 @@ set FLASK_APP=main
 flask run
 ```
 Then on your browser open `localhost:5000` or `http://127.0.0.1:5000/`
+
+The Results of the data that is scrapped from the Web Page is returned in a Excel Sheet.
